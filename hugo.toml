@@ -1,0 +1,4 @@
+baseURL = 'https://tectec.dev/'
+languageCode = 'en-us'
+title = 'tectec'
+theme = 'hugo-simple'
