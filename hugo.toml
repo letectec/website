@@ -2,3 +2,15 @@ baseURL = 'https://tectec.dev/'
 languageCode = 'en-us'
 title = 'tectec'
 theme = 'hugo-simple'
+enableRobotsTXT = true
+
+[[menus.main]]
+name = 'home'
+pageRef = '/'
+[[menus.main]]
+name = 'youtube'
+pageRef = '/youtube'
+[[menus.main]]
+name = 'posts'
+title = 'posts'
+pageRef = '/posts'
